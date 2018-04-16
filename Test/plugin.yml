@@ -1,0 +1,12 @@
+name: Test
+author: TheAnarchistDev
+version: 1.0
+main: me.TheAnarchistDev.Test.main
+description: test plugin for random commands
+commands:
+    heal:
+       description: Heals player
+    feed:
+       description: feeds player
+    feast:
+       description: completely fills player food level
