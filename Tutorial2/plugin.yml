@@ -1,0 +1,5 @@
+name: Tutorial2
+main: me.TheAnarchistDev.Tutorial2.Tutorial2
+version: 1.0
+commands:
+    EggAnnouncer:
